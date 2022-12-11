@@ -1,5 +1,4 @@
-Hello, I am David Vieweg.
+Hello, I am David Vieweg
 
-I work with C# to create software e.g. for data analysis,
-write Web Applications with HTML, CSS, JS, PHP and MySQL.
-Lua is something I am learning for working on game projects.
+Currently I am working with C++ in order to create Helper Libraries for Direct2D and Desktop Development Tools.
+As of VS is my favourite IDE I suppose I remain at the Windows Desktop Developmen at first.
